@@ -1,0 +1,21 @@
+:root{
+    --background :#000;
+    --texte-colors :#f1f1f1;  
+    --border-color : #ffffff1e;
+    --background-hover :#33333373;
+    --Reel-color1: #b80f5b;
+    --Reel-color2: #740fb8;
+    --Reel-color3: #2bb80f;
+    --Reel-color4: #acb80f;
+}
+
+[data-theme="dark"]{
+    --background :#fff;
+    --texte-colors :#000;
+    --border-color : #33333320;
+    --background-hover :#00000014;
+    --Reel-color1: #b80f5b;
+    --Reel-color2: #740fb8;
+    --Reel-color3: #2bb80f;
+    --Reel-color4: #acb80f;
+}
